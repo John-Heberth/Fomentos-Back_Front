@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013861719921",
+    "project_id": "fomentos-back-front",
+    "storage_bucket": "fomentos-back-front.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013861719921:android:f31af41fa18ddaf5af60d0",
+        "android_client_info": {
+          "package_name": "com.example.fomentos_back_front"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013861719921-2smss8nrprhu3ebqdpak6siucmq2n6cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6wRP0nhgFcn1jsfNHRCKwlhr434fvgMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013861719921-2smss8nrprhu3ebqdpak6siucmq2n6cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
